@@ -32,10 +32,9 @@ Twee factoren voor mijn Tower Defense-game
 De twee factoren die ik wil toepassen in mijn game zijn:
 
 Balans en moeilijkheidsgraad (Playability)
-
 Ik wil een systeem implementeren waarin de moeilijkheidsgraad dynamisch aangepast wordt op basis van de prestaties van de speler.
-Schets: (https://github.com/A3A9N/PROG-X1/blob/main/Fotos/DALL·E%202024-11-20%2013.50.42%20-%20A%20simple%20conceptual%20sketch%20for%20a%20tower%20defense%20game%20focusing%20on%20two%20features_%20(1)%20A%20straightforward%20dynamic%20difficulty%20slider%2C%20drawn%20as%20a%20minimalistic.webp) Een diagram toont een slidermechanisme dat het aantal vijanden en hun snelheid aanpast afhankelijk van het succes van de speler.
-Dynamische content (Replayability)
+Een diagram toont een slidermechanisme dat het aantal vijanden en hun snelheid aanpast afhankelijk van het succes van de speler.
 
+Dynamische content (Replayability)
 Ik wil procedureel gegenereerde golven van vijanden toevoegen. Elke keer dat een speler een level speelt, krijgen ze een unieke samenstelling van vijanden.
-Schets: [Placeholder voor schets] Een voorbeeld van hoe de interface aangeeft dat de golven willekeurig worden samengesteld.
+Een voorbeeld van hoe de interface aangeeft dat de golven willekeurig worden samengesteld.
